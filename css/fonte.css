@@ -1,0 +1,12 @@
+.green{
+    font-size: 20px;
+    color: rgb(0, 255, 0);
+}
+.red{
+    font-size: 25px;
+    color: red;
+}
+#paragrafo{
+    font-size: 30px;
+    color: yellow;
+}
